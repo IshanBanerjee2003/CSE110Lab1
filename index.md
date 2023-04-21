@@ -48,5 +48,5 @@ I followed the following checklist:
 - [x] Part 1. Installing Visual Studio Code and Extensions
 - [x] Part 2. (Re)Familiarizing Ourselves with Git
 - [x] VSCode UI
-- [ ] Part 3. Using Markdown
+- [x] Part 3. Using Markdown
 
